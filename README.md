@@ -18,6 +18,7 @@ I like to create small games and other gimmicks with graphical APIs and game eng
 ### 🔭 I’m currently working on ...
 - Working on personal recreation of Space Invaders using OpenGL
 - School work
+- Odin Project Course
 
 ### 🌱 I’m currently learning ...
 <div display="flex">
